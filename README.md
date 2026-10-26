@@ -10,9 +10,9 @@ backend/    Express API + MongoDB integration
 
 ## Features
 
-- Browse sweets, bakery items, meals, drinks, and snacks
+- Browse fashionable shirt,t-shirt ,top-wear and bottom-wear 
 - Search and filter products by category and type
-- View product details, descriptions, images, and pack sizes
+- View product details, descriptions, images, and sizes
 - Add products to the cart with success notifications
 - Register, log in, and manage authenticated carts
 - Place cash-on-delivery orders
