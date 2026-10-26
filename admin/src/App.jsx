@@ -3,9 +3,9 @@ import { Route, Routes } from "react-router-dom";
 import Login from "./components/Login";
 import Navbar from "./components/Navbar";
 import Sidebar from "./components/Sidebar";
-import Add from "./pages/Add";
-import List from "./pages/List";
-import Orders from "./pages/Order";
+import Add from "./Pages/Add";
+import List from "./Pages/List";
+import Orders from "./Pages/Order";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
