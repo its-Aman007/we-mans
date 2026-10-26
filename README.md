@@ -1,4 +1,4 @@
-Shopiffy is your one-stop online shopping destination for the latest fashion and lifestyle products. Enjoy a seamless shopping experience with quality products, affordable prices, secure payments, and convenient delivery—all in one place.
+Shophiffy is your one-stop online shopping destination for the latest fashion and lifestyle products. Enjoy a seamless shopping experience with quality products, affordable prices, secure payments, and convenient delivery—all in one place.
 
 
 ## Project Structure
